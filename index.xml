@@ -10,61 +10,61 @@
     <link>https://quartz.jzhao.xyz/topics/</link>
     <guid>https://quartz.jzhao.xyz/topics/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 16 Jul 2026 19:57:30 GMT</pubDate>
+    <pubDate>Thu, 16 Jul 2026 21:00:44 GMT</pubDate>
   </item><item>
     <title>tags</title>
     <link>https://quartz.jzhao.xyz/tags/tags</link>
     <guid>https://quartz.jzhao.xyz/tags/tags</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 16 Jul 2026 19:57:30 GMT</pubDate>
+    <pubDate>Thu, 16 Jul 2026 21:00:44 GMT</pubDate>
   </item><item>
     <title>further-maths</title>
     <link>https://quartz.jzhao.xyz/tags/further-maths</link>
     <guid>https://quartz.jzhao.xyz/tags/further-maths</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 16 Jul 2026 19:57:30 GMT</pubDate>
+    <pubDate>Thu, 16 Jul 2026 21:00:44 GMT</pubDate>
   </item><item>
     <title>matrices</title>
     <link>https://quartz.jzhao.xyz/tags/matrices</link>
     <guid>https://quartz.jzhao.xyz/tags/matrices</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 16 Jul 2026 19:57:30 GMT</pubDate>
+    <pubDate>Thu, 16 Jul 2026 21:00:44 GMT</pubDate>
   </item><item>
     <title>matrix-multiplication</title>
     <link>https://quartz.jzhao.xyz/tags/matrix-multiplication</link>
     <guid>https://quartz.jzhao.xyz/tags/matrix-multiplication</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 16 Jul 2026 19:57:30 GMT</pubDate>
+    <pubDate>Thu, 16 Jul 2026 21:00:44 GMT</pubDate>
   </item><item>
     <title>algebraic-properties</title>
     <link>https://quartz.jzhao.xyz/tags/algebraic-properties</link>
     <guid>https://quartz.jzhao.xyz/tags/algebraic-properties</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 16 Jul 2026 19:57:30 GMT</pubDate>
+    <pubDate>Thu, 16 Jul 2026 21:00:44 GMT</pubDate>
   </item><item>
     <title>Tag Index</title>
     <link>https://quartz.jzhao.xyz/tags/</link>
     <guid>https://quartz.jzhao.xyz/tags/</guid>
     <description><![CDATA[  ]]></description>
-    <pubDate>Thu, 16 Jul 2026 19:57:30 GMT</pubDate>
+    <pubDate>Thu, 16 Jul 2026 21:00:44 GMT</pubDate>
   </item><item>
-    <title>Collapsed Blocks</title>
-    <link>https://quartz.jzhao.xyz/topics/collapsed-blocks</link>
-    <guid>https://quartz.jzhao.xyz/topics/collapsed-blocks</guid>
-    <description><![CDATA[  See what is happening The (x)-terms, (y)-terms and constant terms are collected separately. ]]></description>
-    <pubDate>Thu, 16 Jul 2026 19:49:34 GMT</pubDate>
+    <title>Constant terms</title>
+    <link>https://quartz.jzhao.xyz/topics/constant-terms</link>
+    <guid>https://quartz.jzhao.xyz/topics/constant-terms</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 16 Jul 2026 20:58:51 GMT</pubDate>
   </item><item>
-    <title>Configuration of 3 planes</title>
-    <link>https://quartz.jzhao.xyz/topics/configuration-of-3-planes</link>
-    <guid>https://quartz.jzhao.xyz/topics/configuration-of-3-planes</guid>
-    <description><![CDATA[ Vocabulary A system of linear equations is consistent if it has at least one solution. A system is inconsistent if it has no solutions. ]]></description>
-    <pubDate>Sat, 04 Jul 2026 22:34:54 GMT</pubDate>
+    <title>Coefficients</title>
+    <link>https://quartz.jzhao.xyz/topics/coefficients</link>
+    <guid>https://quartz.jzhao.xyz/topics/coefficients</guid>
+    <description><![CDATA[  ]]></description>
+    <pubDate>Thu, 16 Jul 2026 20:58:36 GMT</pubDate>
   </item><item>
-    <title>Integration by substitution (indefinite)</title>
-    <link>https://quartz.jzhao.xyz/topics/integration-by-substitution-(indefinite)</link>
-    <guid>https://quartz.jzhao.xyz/topics/integration-by-substitution-(indefinite)</guid>
-    <description><![CDATA[  Write out the integral \displaystyle{\int \dfrac{\ln x}{x(1+\ln x)^2}}\text{ d}x Change what you are integrating with respect to \displaystyle{\int \dfrac{\ln x}{x(1+\ln x)^2}}\dfrac{\text{ d}x}{\text{ d}u}\text{ d}u Use the substitution given to find the derivative; differentiate as is. ]]></description>
-    <pubDate>Sat, 04 Jul 2026 22:13:20 GMT</pubDate>
+    <title>Collecting-like-terms-draft-v0.1</title>
+    <link>https://quartz.jzhao.xyz/topics/collecting-like-terms-draft-v0.1</link>
+    <guid>https://quartz.jzhao.xyz/topics/collecting-like-terms-draft-v0.1</guid>
+    <description><![CDATA[ Collecting like terms Like terms have exactly the same letters and powers. Collect them by adding or subtracting their coefficients. ]]></description>
+    <pubDate>Thu, 16 Jul 2026 20:57:57 GMT</pubDate>
   </item>
     </channel>
   </rss>
